@@ -1,0 +1,10 @@
+#home {
+  scroll-margin-top: 100px; 
+}
+#contact{
+  scroll-margin-top: -10px;
+}
+html,body{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
